@@ -1,0 +1,29 @@
+{
+    "name": "Raelcoin",
+    "type": "BEP20",
+    "symbol": "RaelCOIN",
+    "decimals": 9,
+    "website": "https://raelcoin.com/",
+    "description": "  By buying and selling RAELCOIN , the holders receive 7% reward in each transaction and 7% will be send to pool. RAELCOIN developed for trade with UFOs. RAELCOINSwap will be made soon and will be used in NFT later . RAELCOINSwap will include Srade with UFOs. RAELCOINSwap will be made soon and will be used in NFT later . Rwap , pool , farms , liquidity , lottery and NFT , . .",
+    "explorer": "https://bscscan.com/token/0xd2e1ed917256929855d79c70ff1df0772dc03ae6",
+    "status": "active",
+    "id": "0x87e9c65537f3a58125540b4dE1e5c6345D676308"
+}
+
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/RAELcoin"
+        },
+        {
+            "name": "instagram",
+            "url": "https://www.instagram.com/raelcoin/"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/joinchat/90jNYi4lr7s1YWM0"
+        }
+    ],
+    "type": "BEP20",
+   
+}
